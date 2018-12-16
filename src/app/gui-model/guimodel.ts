@@ -133,7 +133,7 @@ export class GuiModel {
                             "name": "Location",
                             "url": "/location",
                             "form": "ActivityForm",
-                            "width": 2
+                            "width": 2,
                             "required": true
                         },
                         {
